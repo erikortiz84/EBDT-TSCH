@@ -3,4 +3,5 @@ The code was created in MatLab R2021a
 
 The content of each folder is described below:
 * Superface: Contains the code to create Figure 4
-* Theo Expected: 
+* Theo Expected: The function comp.m calculates the expected time for a node to get associate with the network following equation (6). Furthermore, it calculates this same value from equation (7). Obtaining the same result from both equations validates the mathematical development presented in Appendix A
+* 
